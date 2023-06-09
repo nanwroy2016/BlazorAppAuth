@@ -1,0 +1,238 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.BLL\\BlazorAppAuth.BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.BLL\\BlazorAppAuth.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.BLL\\BlazorAppAuth.BLL.csproj",
+        "projectName": "BlazorAppAuth.BLL",
+        "projectPath": "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.BLL\\BlazorAppAuth.BLL.csproj",
+        "packagesPath": "C:\\Users\\Nan.Wang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nan.Wang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DAL\\BlazorAppAuth.DAL.csproj": {
+                "projectPath": "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DAL\\BlazorAppAuth.DAL.csproj"
+              },
+              "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DTO\\BlazorAppAuth.DTO.csproj": {
+                "projectPath": "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DTO\\BlazorAppAuth.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DAL\\BlazorAppAuth.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DAL\\BlazorAppAuth.DAL.csproj",
+        "projectName": "BlazorAppAuth.DAL",
+        "projectPath": "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DAL\\BlazorAppAuth.DAL.csproj",
+        "packagesPath": "C:\\Users\\Nan.Wang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nan.Wang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DTO\\BlazorAppAuth.DTO.csproj": {
+                "projectPath": "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DTO\\BlazorAppAuth.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DTO\\BlazorAppAuth.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DTO\\BlazorAppAuth.DTO.csproj",
+        "projectName": "BlazorAppAuth.DTO",
+        "projectPath": "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DTO\\BlazorAppAuth.DTO.csproj",
+        "packagesPath": "C:\\Users\\Nan.Wang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nan.Wang\\source\\repos\\BlazorAppAuth\\BlazorAppAuth\\BlazorAppAuth.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nan.Wang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

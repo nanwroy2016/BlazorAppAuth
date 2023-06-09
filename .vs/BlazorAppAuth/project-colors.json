@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b915dff5-1cc1-482b-90ab-e3f8f186b9fd": {
+      "ProjectGuid": "b915dff5-1cc1-482b-90ab-e3f8f186b9fd",
+      "DisplayName": "BlazorAppAuth.Server",
+      "ColorIndex": 0
+    },
+    "cc533efd-c941-4364-a42c-9f8801b20347": {
+      "ProjectGuid": "cc533efd-c941-4364-a42c-9f8801b20347",
+      "DisplayName": "BlazorAppAuth.Shared",
+      "ColorIndex": 1
+    },
+    "d7b5a9bc-d043-4697-9c30-bb894b659bcb": {
+      "ProjectGuid": "d7b5a9bc-d043-4697-9c30-bb894b659bcb",
+      "DisplayName": "BlazorAppAuth.Client",
+      "ColorIndex": 2
+    },
+    "b78e45da-758a-4364-a255-73f491004462": {
+      "ProjectGuid": "b78e45da-758a-4364-a255-73f491004462",
+      "DisplayName": "BlazorAppAuth.BLL",
+      "ColorIndex": 3
+    },
+    "2426d76c-c0b6-49b8-8fda-4a4d97ef52c1": {
+      "ProjectGuid": "2426d76c-c0b6-49b8-8fda-4a4d97ef52c1",
+      "DisplayName": "BlazorAppAuth.DAL",
+      "ColorIndex": 4
+    },
+    "2f55bd64-d4ea-471e-bd47-80c64ae72037": {
+      "ProjectGuid": "2f55bd64-d4ea-471e-bd47-80c64ae72037",
+      "DisplayName": "BlazorAppAuth.DTO",
+      "ColorIndex": 5
+    },
+    "9de56ad5-4ad4-4d50-bce4-285b47aac604": {
+      "ProjectGuid": "9de56ad5-4ad4-4d50-bce4-285b47aac604",
+      "DisplayName": "BlazorAppAuth.BLL",
+      "ColorIndex": 6
+    },
+    "ef49c558-cb5d-4d04-a4d2-05244c964146": {
+      "ProjectGuid": "ef49c558-cb5d-4d04-a4d2-05244c964146",
+      "DisplayName": "BlazorAppAuth.DAL",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a73cd6d7-3da5-4c99-ab37-418afaa17c13": {
+      "ProjectGuid": "a73cd6d7-3da5-4c99-ab37-418afaa17c13",
+      "DisplayName": "BlazorAppAuth.DLL",
+      "ColorIndex": 8
+    },
+    "ea2bf815-2531-4e62-b1b4-4efba86d528a": {
+      "ProjectGuid": "ea2bf815-2531-4e62-b1b4-4efba86d528a",
+      "DisplayName": "BlazorAppAuth.DAL",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

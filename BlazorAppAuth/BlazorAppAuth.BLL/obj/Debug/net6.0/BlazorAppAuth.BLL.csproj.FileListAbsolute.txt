@@ -1,0 +1,16 @@
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth.BLL\bin\Debug\net6.0\BlazorAppAuth.BLL.deps.json
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth.BLL\bin\Debug\net6.0\BlazorAppAuth.BLL.dll
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth.BLL\bin\Debug\net6.0\ref\BlazorAppAuth.BLL.dll
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth.BLL\bin\Debug\net6.0\BlazorAppAuth.BLL.pdb
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth.BLL\obj\Debug\net6.0\BlazorAppAuth.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth.BLL\obj\Debug\net6.0\BlazorAppAuth.BLL.AssemblyInfoInputs.cache
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth.BLL\obj\Debug\net6.0\BlazorAppAuth.BLL.AssemblyInfo.cs
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth.BLL\obj\Debug\net6.0\BlazorAppAuth.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth.BLL\obj\Debug\net6.0\BlazorAppAuth.BLL.dll
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth.BLL\obj\Debug\net6.0\ref\BlazorAppAuth.BLL.dll
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth.BLL\obj\Debug\net6.0\BlazorAppAuth.BLL.pdb
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\BlazorAppAuth.BLL\obj\Debug\net6.0\BlazorAppAuth.BLL.csproj.AssemblyReference.cache
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\BlazorAppAuth.BLL\obj\Debug\net6.0\BlazorAppAuth.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\BlazorAppAuth.BLL\obj\Debug\net6.0\BlazorAppAuth.BLL.AssemblyInfoInputs.cache
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\BlazorAppAuth.BLL\obj\Debug\net6.0\BlazorAppAuth.BLL.AssemblyInfo.cs
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\BlazorAppAuth.BLL\obj\Debug\net6.0\BlazorAppAuth.BLL.csproj.CoreCompileInputs.cache

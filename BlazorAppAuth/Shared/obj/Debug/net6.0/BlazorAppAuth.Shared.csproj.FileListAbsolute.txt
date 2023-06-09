@@ -1,0 +1,11 @@
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\Shared\bin\Debug\net6.0\BlazorAppAuth.Shared.deps.json
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\Shared\bin\Debug\net6.0\BlazorAppAuth.Shared.dll
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\Shared\bin\Debug\net6.0\ref\BlazorAppAuth.Shared.dll
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\Shared\bin\Debug\net6.0\BlazorAppAuth.Shared.pdb
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\Shared\obj\Debug\net6.0\BlazorAppAuth.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\Shared\obj\Debug\net6.0\BlazorAppAuth.Shared.AssemblyInfoInputs.cache
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\Shared\obj\Debug\net6.0\BlazorAppAuth.Shared.AssemblyInfo.cs
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\Shared\obj\Debug\net6.0\BlazorAppAuth.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\Shared\obj\Debug\net6.0\BlazorAppAuth.Shared.dll
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\Shared\obj\Debug\net6.0\ref\BlazorAppAuth.Shared.dll
+C:\Users\Nan.Wang\source\repos\BlazorAppAuth\BlazorAppAuth\Shared\obj\Debug\net6.0\BlazorAppAuth.Shared.pdb
